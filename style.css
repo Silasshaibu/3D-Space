@@ -1,0 +1,12 @@
+canvas{
+  position:fixed;
+  top:0;
+  left:0;
+}
+
+main{
+  position: absolute;
+  /* z-index:-1; */
+  padding-bottom:50vh;
+  margin-bottom:50vh;
+}
